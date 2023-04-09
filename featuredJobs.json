@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "img": "https://files.catbox.moe/qcvcr6.png",
+    "designation": "Software Engineer",
+    "company": "Google",
+    "company_location": "Mountain View, CA",
+    "salary": "150k-200k",
+    "job_type": "Full-time",
+    "job_location": "Remote"
+  },
+  {
+    "id": 2,
+    "img": "https://files.catbox.moe/qcvcr6.png",
+    "designation": "Marketing Manager",
+    "company": "Facebook",
+    "company_location": "Menlo Park, CA",
+    "salary": "100k-150k",
+    "job_type": "Part-time",
+    "job_location": "Onsite"
+  },
+  {
+    "id": 3,
+    "img": "https://files.catbox.moe/qcvcr6.png",
+    "designation": "Graphic Designer",
+    "company": "Netflix",
+    "company_location": "Los Gatos, CA",
+    "salary": "100k-200k",
+    "job_type": "Contract",
+    "job_location": "Hybrid"
+  },
+  {
+    "id": 4,
+    "img": "https://files.catbox.moe/qcvcr6.png",
+    "designation": "Product Manager",
+    "company": "Amazon",
+    "company_location": "Seattle, WA",
+    "salary": "200k-250k",
+    "job_type": "Full-time",
+    "job_location": "Onsite"
+  },
+  {
+    "id": 5,
+    "img": "https://files.catbox.moe/qcvcr6.png",
+    "designation": "Sales Representative",
+    "company": "Apple",
+    "company_location": "Cupertino, CA",
+    "salary": "80k-90k",
+    "job_type": "Full-time",
+    "job_location": "Onsite"
+  },
+  {
+    "id": 6,
+    "img": "https://files.catbox.moe/qcvcr6.png",
+    "designation": "Data Analyst",
+    "company": "Tesla",
+    "company_location": "Redmond, WA",
+    "salary": "120k-300k",
+    "job_type": "Remote",
+    "job_location": "Remote"
+  }
+]
